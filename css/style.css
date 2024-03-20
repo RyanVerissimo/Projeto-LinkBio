@@ -61,4 +61,9 @@ main {
     background: #333;
     color: #fff;
     cursor: pointer;
+    transition: 0.3s;
+}
+
+.container .links a button:hover {
+    background: #4e4e4e;
 }
